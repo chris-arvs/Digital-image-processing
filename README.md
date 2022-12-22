@@ -1,4 +1,4 @@
-# Digital-image-processing-sampling-interpolation
+# digital-image-processing-sampling-interpolation
 
 In this project a 2-D grayscale image is downsampled and upsampled with antialiasing filter on and off with the interpollation methods of nearest-neighbor,bilinear and cubic interpolations.
 The downsampling and upsampling method occurs with different scale factor for columns and rows.The cases are the followings:
