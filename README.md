@@ -28,8 +28,8 @@ The downsampling and upsampling method occurs with different scale factor for co
 ->Compare MSE and PSNR between original and reconstructed image for each method(nearest,bilinear and cubic)
 
 Notes:The result of downsampled image is given for upsample in each case.
-MSE(mean square error):is a metric that counts the quality of reconstructed image compare to original
-the smallest the better!
+MSE(mean square error):is a metric that counts the quality of reconstructed image compare to original.
+The smallest the better!
 Aliasing: is an effect that causes different signals to become indistinguishable 
 when sampled. It also often refers to the distortion or artifact that results when 
 a signal reconstructed from samples is different from the original continuous 
